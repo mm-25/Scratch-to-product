@@ -1,0 +1,10 @@
+D:\visual studio\2019\repos\project 1\project 1\bin\Debug\project 1.exe.config
+D:\visual studio\2019\repos\project 1\project 1\bin\Debug\project 1.exe
+D:\visual studio\2019\repos\project 1\project 1\bin\Debug\project 1.pdb
+D:\visual studio\2019\repos\project 1\project 1\obj\Debug\project 1.csprojAssemblyReference.cache
+D:\visual studio\2019\repos\project 1\project 1\obj\Debug\project_1.Form1.resources
+D:\visual studio\2019\repos\project 1\project 1\obj\Debug\project_1.Properties.Resources.resources
+D:\visual studio\2019\repos\project 1\project 1\obj\Debug\project 1.csproj.GenerateResource.cache
+D:\visual studio\2019\repos\project 1\project 1\obj\Debug\project 1.csproj.CoreCompileInputs.cache
+D:\visual studio\2019\repos\project 1\project 1\obj\Debug\project 1.exe
+D:\visual studio\2019\repos\project 1\project 1\obj\Debug\project 1.pdb
