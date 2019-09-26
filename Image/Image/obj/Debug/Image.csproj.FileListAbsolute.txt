@@ -1,0 +1,10 @@
+C:\Users\mufad\source\repos\Image\Image\bin\Debug\Image.exe.config
+C:\Users\mufad\source\repos\Image\Image\bin\Debug\Image.exe
+C:\Users\mufad\source\repos\Image\Image\bin\Debug\Image.pdb
+C:\Users\mufad\source\repos\Image\Image\obj\Debug\Image.csprojAssemblyReference.cache
+C:\Users\mufad\source\repos\Image\Image\obj\Debug\Image.Form1.resources
+C:\Users\mufad\source\repos\Image\Image\obj\Debug\Image.Properties.Resources.resources
+C:\Users\mufad\source\repos\Image\Image\obj\Debug\Image.csproj.GenerateResource.cache
+C:\Users\mufad\source\repos\Image\Image\obj\Debug\Image.csproj.CoreCompileInputs.cache
+C:\Users\mufad\source\repos\Image\Image\obj\Debug\Image.exe
+C:\Users\mufad\source\repos\Image\Image\obj\Debug\Image.pdb
